@@ -26,7 +26,7 @@ export default function About() {
         <div className="about-grid">
           <div className="about-prose" data-reveal>
             <p>
-              Founded in <strong>Spring · January 2026</strong>, Latitude Intelligence was
+              Founded in <strong> January 2026</strong>, Latitude Intelligence was
               established by a team of motivated young researchers led by{' '}
               <strong>Suraj Sagan (Ph.D.)</strong>, bringing over{' '}
               <strong>four years of research experience in HealthGIS and Spatial Analytics</strong>.
